@@ -23,9 +23,9 @@ int main() {
     // resizeImg(path);
     // cropImg(path);
     // generateBlankImg();
-    // warpPerspective(path);
+    warpPerspective(path);
     // detectColor(path);
     // detectContour(path);
-    detectFace(path);
+    // detectFace(path);
     return 0;
 }
